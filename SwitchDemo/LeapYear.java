@@ -15,7 +15,7 @@ public class LeapYear {
         int year = scn.nextInt();
 
         if(  (  (year % 4 == 0) && (year % 100 != 0)  ) || (year % 400 == 0) ) {
-            System.out.println("Leap year");
+            System.out.println("Leap year");//90% year% 4 is valid but in some cases % 400 
         }else{
             System.out.println("Not a leap year");
         }
