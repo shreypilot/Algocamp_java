@@ -1,4 +1,4 @@
-package l6;
+package L6;
 
 public class Prime {
     public static void main(String[] args) {
