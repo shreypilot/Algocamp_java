@@ -47,7 +47,7 @@ System.out.println("-----EF-----");
 
 for(int val : arr) {
     System.out.println(val);
-}
+}//it can only read value it can only move forward 
 
 //        int[] arr1 = arr;
 //        arr1[3] = 100;
